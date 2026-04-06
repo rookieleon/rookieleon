@@ -1,6 +1,6 @@
 <h6 align="center">
 
-![profileviews](https://komarev.com/ghpvc/?username=rookieleon&label=kitties&color=ff69b4)
+![profileviews](https://komarev.com/ghpvc/?username=rookieleon&label=puppies&color=ff69b4)
 
 <h6 align="center">
 
