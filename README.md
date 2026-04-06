@@ -4,7 +4,7 @@
 
 <h6 align="center">
 
-<img src="https://files.catbox.moe/r0ix0u.png" width="50" />
+<img src="https://files.catbox.moe/r0ix0u.png" width="100" />
 
 𐂯  <a href="https://moldyspores.atabook.org/">ata</a> , <a href="https://themolded.straw.page/">straw</a>  𐂯
   
