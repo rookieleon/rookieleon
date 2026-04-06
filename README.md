@@ -4,6 +4,7 @@
 
 <h6 align="center">
 
+<a href="https://github.com/majorkrauser">his rookie</a>
 
 <img src="https://files.catbox.moe/r0ix0u.png" width="100" />
 
